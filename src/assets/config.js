@@ -1,0 +1,3 @@
+let CONFIG = {
+    Title: 'Reader'
+};
